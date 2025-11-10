@@ -31,7 +31,7 @@ Built for the **Microlabs Hackathon 2025**, it empowers public-health teams to a
 
 ## ⚙️ How to Run
 ```bash
-git clone https://github.com/<your-username>/outbreakcast.git
-cd outbreakcast
+git clone https://github.com/Seweymon/OutbreakCast-Fever-Forecasts.git
+cd OutbreakCast-Fever-Forecasts
 pip install -r requirements.txt
 streamlit run app.py
