@@ -1,0 +1,53 @@
+week_start,state,district,yhat,risk_band
+29-06-25,Karnataka,Belagavi,0.094716176,Amber
+06-07-25,Karnataka,Belagavi,0.124183871,Amber
+13-07-25,Karnataka,Belagavi,0.563890576,Amber
+20-07-25,Karnataka,Belagavi,0.088353761,Amber
+29-06-25,Karnataka,Bengaluru Urban,0.974885285,Green
+06-07-25,Karnataka,Bengaluru Urban,0.793159246,Green
+13-07-25,Karnataka,Bengaluru Urban,1.104898691,Amber
+20-07-25,Karnataka,Bengaluru Urban,0.894346178,Green
+29-06-25,Tamil Nadu,Chennai,1.245352626,Green
+06-07-25,Tamil Nadu,Chennai,0.770308912,Green
+13-07-25,Tamil Nadu,Chennai,0.829896033,Green
+20-07-25,Tamil Nadu,Chennai,0.810424924,Green
+29-06-25,Tamil Nadu,Coimbatore,0.090291329,Green
+06-07-25,Tamil Nadu,Coimbatore,0.025577057,Green
+13-07-25,Tamil Nadu,Coimbatore,0.01938221,Green
+20-07-25,Tamil Nadu,Coimbatore,0.087163679,Green
+29-06-25,Kerala,Kochi,0.710190594,Green
+06-07-25,Kerala,Kochi,0.476674765,Green
+13-07-25,Kerala,Kochi,0.65962404,Green
+20-07-25,Kerala,Kochi,0.392316967,Green
+29-06-25,Kerala,Kozhikode,0.011823586,Green
+06-07-25,Kerala,Kozhikode,0.328666657,Green
+13-07-25,Kerala,Kozhikode,0.235272005,Green
+20-07-25,Kerala,Kozhikode,0.230259344,Green
+29-06-25,Tamil Nadu,Madurai,0.560192227,Green
+06-07-25,Tamil Nadu,Madurai,0.335618138,Green
+13-07-25,Tamil Nadu,Madurai,0,Green
+20-07-25,Tamil Nadu,Madurai,0.046728332,Green
+29-06-25,Maharashtra,Mumbai,0.192145228,Green
+06-07-25,Maharashtra,Mumbai,0.270969301,Green
+13-07-25,Maharashtra,Mumbai,0.446027905,Green
+20-07-25,Maharashtra,Mumbai,0.271980673,Green
+29-06-25,Karnataka,Mysuru,0.416413397,Green
+06-07-25,Karnataka,Mysuru,0.020854279,Green
+13-07-25,Karnataka,Mysuru,0.230711877,Green
+20-07-25,Karnataka,Mysuru,0.111785896,Green
+29-06-25,Maharashtra,Nagpur,0.561205447,Green
+06-07-25,Maharashtra,Nagpur,0.496461809,Green
+13-07-25,Maharashtra,Nagpur,0.136958048,Green
+20-07-25,Maharashtra,Nagpur,0.476754308,Green
+29-06-25,Delhi,New Delhi,0.108220786,Green
+06-07-25,Delhi,New Delhi,0.047534764,Green
+13-07-25,Delhi,New Delhi,0.400258303,Green
+20-07-25,Delhi,New Delhi,0.597245634,Green
+29-06-25,Maharashtra,Pune,0.046933539,Green
+06-07-25,Maharashtra,Pune,0.077019736,Green
+13-07-25,Maharashtra,Pune,0,Green
+20-07-25,Maharashtra,Pune,0.048651319,Green
+29-06-25,Kerala,Thiruvananthapuram,0.248738348,Green
+06-07-25,Kerala,Thiruvananthapuram,0,Green
+13-07-25,Kerala,Thiruvananthapuram,0.059215128,Green
+20-07-25,Kerala,Thiruvananthapuram,0,Green

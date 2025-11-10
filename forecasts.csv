@@ -1,0 +1,53 @@
+week_start,state,district,yhat
+29-06-25,Delhi,New Delhi,0.108220786
+06-07-25,Delhi,New Delhi,0.047534764
+13-07-25,Delhi,New Delhi,0.400258303
+20-07-25,Delhi,New Delhi,0.597245634
+29-06-25,Karnataka,Belagavi,0.094716176
+06-07-25,Karnataka,Belagavi,0.124183871
+13-07-25,Karnataka,Belagavi,0.563890576
+20-07-25,Karnataka,Belagavi,0.088353761
+29-06-25,Karnataka,Bengaluru Urban,0.974885285
+06-07-25,Karnataka,Bengaluru Urban,0.793159246
+13-07-25,Karnataka,Bengaluru Urban,1.104898691
+20-07-25,Karnataka,Bengaluru Urban,0.894346178
+29-06-25,Karnataka,Mysuru,0.416413397
+06-07-25,Karnataka,Mysuru,0.020854279
+13-07-25,Karnataka,Mysuru,0.230711877
+20-07-25,Karnataka,Mysuru,0.111785896
+29-06-25,Kerala,Kochi,0.710190594
+06-07-25,Kerala,Kochi,0.476674765
+13-07-25,Kerala,Kochi,0.65962404
+20-07-25,Kerala,Kochi,0.392316967
+29-06-25,Kerala,Kozhikode,0.011823586
+06-07-25,Kerala,Kozhikode,0.328666657
+13-07-25,Kerala,Kozhikode,0.235272005
+20-07-25,Kerala,Kozhikode,0.230259344
+29-06-25,Kerala,Thiruvananthapuram,0.248738348
+06-07-25,Kerala,Thiruvananthapuram,0
+13-07-25,Kerala,Thiruvananthapuram,0.059215128
+20-07-25,Kerala,Thiruvananthapuram,0
+29-06-25,Maharashtra,Mumbai,0.192145228
+06-07-25,Maharashtra,Mumbai,0.270969301
+13-07-25,Maharashtra,Mumbai,0.446027905
+20-07-25,Maharashtra,Mumbai,0.271980673
+29-06-25,Maharashtra,Nagpur,0.561205447
+06-07-25,Maharashtra,Nagpur,0.496461809
+13-07-25,Maharashtra,Nagpur,0.136958048
+20-07-25,Maharashtra,Nagpur,0.476754308
+29-06-25,Maharashtra,Pune,0.046933539
+06-07-25,Maharashtra,Pune,0.077019736
+13-07-25,Maharashtra,Pune,0
+20-07-25,Maharashtra,Pune,0.048651319
+29-06-25,Tamil Nadu,Chennai,1.245352626
+06-07-25,Tamil Nadu,Chennai,0.770308912
+13-07-25,Tamil Nadu,Chennai,0.829896033
+20-07-25,Tamil Nadu,Chennai,0.810424924
+29-06-25,Tamil Nadu,Coimbatore,0.090291329
+06-07-25,Tamil Nadu,Coimbatore,0.025577057
+13-07-25,Tamil Nadu,Coimbatore,0.01938221
+20-07-25,Tamil Nadu,Coimbatore,0.087163679
+29-06-25,Tamil Nadu,Madurai,0.560192227
+06-07-25,Tamil Nadu,Madurai,0.335618138
+13-07-25,Tamil Nadu,Madurai,0
+20-07-25,Tamil Nadu,Madurai,0.046728332
